@@ -4,6 +4,3 @@ Backup of files needed for [fread-userland](https://github.com/fread-ink/fread-u
 * `debootstrap_packages` are the .deb files needed for the debootstrap command
 * `qemu` contains the qemu binary necessary for chroot on a foreign architecture
 
-# TODO
-
-* Add vm_packages files.
